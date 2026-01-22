@@ -1,2 +1,2 @@
 Hello Git
-second change
+Changes from master branch
